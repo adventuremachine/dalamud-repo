@@ -1,4 +1,7 @@
-# Adventure Machine Changelog
+﻿# Adventure Machine Changelog
+
+## v1.0.1.1
+- Add /rp config command to open settings window directly
 
 ## v1.0.1.0
 - Fix character selection when joining/resuming sessions: active sessions now resume with your existing character instead of re-creating from game data
