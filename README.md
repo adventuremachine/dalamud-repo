@@ -37,7 +37,7 @@ Connect to an Adventure Machine server to manage characters, worlds, and live ro
 
 After installing the plugin:
 
-1. Open settings with `/rp config` (or via the Dalamud plugin list)
+1. Open settings with `/rp config`
 2. Set the **Server URL** to your Adventure Machine server
 3. Click **Register** to create an account
 4. (Optional) Set an **OpenRouter API Key** if you want to host sessions -- this powers the AI dungeon master
