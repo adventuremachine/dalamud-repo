@@ -31,15 +31,15 @@ Connect to an Adventure Machine server to manage characters, worlds, and live ro
 | Command | Description |
 |---------|-------------|
 | `/rp` | Open the main Adventure Machine window |
-| `/rp config` | Open settings (server URL, API key, display name) |
+| `/rp config` | Open settings (API key, display name) |
 
 ## Setup
 
 After installing the plugin:
 
-1. Open settings with `/rp config`
-2. Set the **Server URL** to your Adventure Machine server
-3. Click **Register** to create an account
+1. Log in at [imaginaryrobot.com/adventuremachine](https://imaginaryrobot.com/adventuremachine) and go to your Profile to generate an API token
+2. Open settings with `/rp config` and paste your API token
+3. Click **Save & Verify** to connect
 4. (Optional) Set an **OpenRouter API Key** if you want to host sessions -- this powers the AI dungeon master
 
 ## Changelog
