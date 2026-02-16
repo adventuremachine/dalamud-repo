@@ -1,5 +1,8 @@
 ﻿# Adventure Machine Changelog
 
+## v1.0.1.4
+- Fix OOC input row sizing and Send button alignment
+
 ## v1.0.1.3
 - Add dedicated OOC input row to session window
 
