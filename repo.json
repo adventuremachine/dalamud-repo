@@ -5,8 +5,8 @@
         "Punchline":  "Multiplayer AI-driven roleplay session client",
         "Description":  "Connect to an Adventure Machine server to manage characters, worlds, and live roleplay sessions with AI dungeon master support. Auto-populates character data from your current FFXIV game state.",
         "InternalName":  "RP.Dalamud",
-        "AssemblyVersion":  "1.0.1.2",
-        "TestingAssemblyVersion":  "1.0.1.2",
+        "AssemblyVersion":  "1.0.1.3",
+        "TestingAssemblyVersion":  "1.0.1.3",
         "RepoUrl":  "https://github.com/adventuremachine/dalamud-repo",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  14,
@@ -15,8 +15,8 @@
         "IsTestingExclusive":  "False",
         "DownloadCount":  0,
         "LastUpdate":  0,
-        "DownloadLinkInstall":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.2/AdventureMachine.zip",
-        "DownloadLinkTesting":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.2/AdventureMachine.zip",
-        "DownloadLinkUpdate":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.2/AdventureMachine.zip"
+        "DownloadLinkInstall":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.3/AdventureMachine.zip",
+        "DownloadLinkTesting":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.3/AdventureMachine.zip",
+        "DownloadLinkUpdate":  "https://github.com/adventuremachine/dalamud-repo/releases/download/v1.0.1.3/AdventureMachine.zip"
     }
 ]

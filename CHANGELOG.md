@@ -1,5 +1,8 @@
 ﻿# Adventure Machine Changelog
 
+## v1.0.1.3
+- Add dedicated OOC input row to session window
+
 ## v1.0.1.2
 - Remove server URL from settings UI (hardcoded to Adventure Machine server)
 - Add /rp config command to open settings window directly
