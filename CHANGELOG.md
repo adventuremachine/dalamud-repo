@@ -1,9 +1,6 @@
 ﻿# Adventure Machine Changelog
 
 ## v1.0.1.5
-- Unified session browser with search/filter/sort. Fix duplicate disposition messages, NPC fortuna updates, and host misidentification when NPCs share UserId. Widen Send button.
-
-## v1.0.1.5
 - Unified session browser: single filterable/sortable list replacing split My Sessions / Public Sessions
 - Search, NSFW filter, visibility filter, and clickable sort headers (name, world, host, status, players, last played)
 - Session rows show host name, non-canon/NSFW/visibility badges, and relative timestamps
