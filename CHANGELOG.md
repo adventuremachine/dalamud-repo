@@ -1,5 +1,18 @@
 ﻿# Adventure Machine Changelog
 
+## v1.0.1.5
+- Unified session browser with search/filter/sort. Fix duplicate disposition messages, NPC fortuna updates, and host misidentification when NPCs share UserId. Widen Send button.
+
+## v1.0.1.5
+- Unified session browser: single filterable/sortable list replacing split My Sessions / Public Sessions
+- Search, NSFW filter, visibility filter, and clickable sort headers (name, world, host, status, players, last played)
+- Session rows show host name, non-canon/NSFW/visibility badges, and relative timestamps
+- Join by Code moved to top of the Join tab
+- Fix duplicate system messages when enemies flee/surrender in combat
+- Fix NPC Fortuna not updating live after combat round grants
+- Fix host actions failing when NPCs share the same UserId ("only the host can..." error)
+- Widen Send button to fill remaining space in chat input row
+
 ## v1.0.1.4
 - Fix OOC input row sizing and Send button alignment
 
