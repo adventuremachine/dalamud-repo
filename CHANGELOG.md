@@ -1,5 +1,16 @@
 ﻿# Adventure Machine Changelog
 
+## v1.0.1.6
+- Cancel DM generation button during streaming
+- Host whispers UI (add/edit/delete private DM notes in sidebar)
+- Player readiness toggle and badges
+- Combat turn-by-turn narration in chat
+- Dice roll display in chat
+- Kicked-from-session handling with overlay
+- Combat acted state tracking on rejoin
+- Fix combat action display to show target name
+- Remove typing indicators
+
 ## v1.0.1.5
 - Unified session browser: single filterable/sortable list replacing split My Sessions / Public Sessions
 - Search, NSFW filter, visibility filter, and clickable sort headers (name, world, host, status, players, last played)
